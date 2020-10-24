@@ -1,0 +1,102 @@
+<html>
+<body>
+<head>
+	<font color="white">
+		<strong>
+			<div style="left:50px; position: absolute;top:10px;">
+			<table width="70" height="80" border="4" cellspacing="10" bordercolor="white">
+				<font size="15px">
+				<tr>
+				JS 
+				</tr>
+				</font>
+			</table>
+			</div>
+		</strong> 
+	</font>
+</head>
+
+<head><style>
+	body{background:url(background1.jpg) top left;
+		 background-size:100%; 
+    p{
+		font-size:30px;
+		color:white;
+	}
+</style></head>
+
+<a href="https://www.javascript.com/">
+	<font size="5px">
+		<font color="white">
+			<div style="left:115px; position: absolute;top:30px;">
+			Javascript</font><font color="red">.com
+			</div></font></font>
+		</a>
+		
+<a href="https://www.javascript.com/try">
+	<font size="3px">
+		<font color="white">
+			<div style="right:360px; position: absolute;top:40px;">
+			TRY JAVASCRIPT
+			</div></font></font>
+		</a>
+	
+<a href="https://www.javascript.com/learn/strings">
+	<font size="3px">
+		<font color="white">
+			<div style="right:270px;position:absolute;top:40px;">
+			Learn
+			</div></font></font>
+		</a>
+		
+<a href="https://www.javascript.com/resources">
+	<font size="3px">
+		<font color="white">
+			<div style="right:150px;position:absolute;top:40px;">
+			Resources
+			</div></font></font>
+		</a>
+		
+<a href="https://www.javascript.com/about">
+	<font size="3px">
+		<font color="white">
+			<div style="right:50px;position:absolute;top:40px;">
+			About
+			</div></font></font>
+		</a>
+
+<p><font color="white">
+	<font size="2px">
+		<div style="left:210px;position:absolute;top:65px;">
+		by <strong>LJava</strong>
+		</div></font></font>
+	</p>
+
+<p><font color="white">
+	<div style=" text-align:center;padding-top:220px;">
+		READY TO TRY</br>
+		<font size="20px">
+			<strong>
+			javaScript?</br>
+			</strong>
+		</font>
+		</br>
+		Begin learning here by tying in your name surrounded by quotation marks,and</br>
+		ending with a semicolon.For example, you could try the name "Jamie", and then hit<br>
+		enter.</br>
+	</div></font>
+</P>
+
+
+
+<div class="search">
+    <div style="top:470px;position:absolute;left:350px;">
+        <img src="search.png" />
+    </div>
+	<div style="top:469px;position:absolute;left:380px;">
+		<input type="text" value="" style="width:680PX;height:35px" />
+	</div>
+</div>
+
+</body>
+</html>
